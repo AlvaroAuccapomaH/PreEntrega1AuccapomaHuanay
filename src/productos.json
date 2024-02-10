@@ -6,7 +6,7 @@
         "stock":20,
         "price": 2.12,
         "category": "medicine",
-        "imagen": "../public/medicina1.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/medicina1.jpg"
 
     },
     {
