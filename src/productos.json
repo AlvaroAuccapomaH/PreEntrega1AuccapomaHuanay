@@ -1,0 +1,254 @@
+[
+    {
+        "id":1,
+        "name":"Panadol Antigripal NF Tableta",
+        "description":"Paracetamol 500mg+Clorhidrato de fenilefrina 5mg+Maleato de clorfenamina 2mg",
+        "stock":20,
+        "price": 2.12,
+        "category": "medicine",
+        "imagen": "../public/medicina1.jpg"
+
+    },
+    {
+        "id":2,
+        "name":"Vick Vaporub Ungüento tópico",
+        "description":"Alcanfor 5.26g| Mentol 2.82g| Aceite de eucalipto 1.33g",
+        "stock":20,
+        "price": 2.90,
+        "category": "medicine",
+        "imagen": "../public/medicina2.jpg"
+    },
+    {
+        "id":3,
+        "name":"Abrilar EA 575 Jarabe",
+        "description":"Paracetamol 500mg+Clorhidrato de fenilefrina 5mg+Maleato de clorfenamina 2mg",
+        "stock":20,
+        "price": 19,
+        "category": "medicine",
+        "imagen": "../public/medicina3.jpg"
+    },
+    {
+        "id":4,
+        "name":"Panadol Forte Tableta",
+        "description":"Paracetamol 500mg | Cafeína 65mg",
+        "stock":20,
+        "price": 1.77,
+        "category": "medicine",
+        "imagen": "../public/medicina4.jpg"
+    },
+    {
+        "id":5,
+        "name":"Vick Vaporub Ungüento tópico",
+        "description":"Alcanfor 5.26g| Mentol 2.82g| Aceite de eucalipto 1.33g",
+        "stock":20,
+        "price": 14.80,
+        "category": "medicine",
+        "imagen": "../public/medicina5.jpg"
+    },
+    {
+        "id":6,
+        "name":"Clearblue Plus Test Embarazoa",
+        "description":"Prueba de embarazo. Precisión superior al 99%.",
+        "stock":20,
+        "price": 15.50,
+        "category": "medicine",
+        "imagen": "../public/medicina6.jpg"
+    },
+    {
+        "id":7,
+        "name":"Multi-bioticos Pastilla dura con sabor a Mentol y Eucaliptol",
+        "description":"Cloruro de Decualinio 0.25mg | Benzocaina 10mg",
+        "stock":20,
+        "price": 2.55,
+        "category": "medicine",
+        "imagen": "../public/medicina7.jpg"
+    },
+    {
+        "id":8,
+        "name":"Panadol 100mg/ml Solución oral gotas",
+        "description":"Paracetamol 100mg",
+        "stock":20,
+        "price": 15.50,
+        "category": "medicine",
+        "imagen": "../public/medicina8.jpg"
+    },
+    {
+        "id":9,
+        "name":" Tiras Reactivas para Glucosa Accu-Chek Instant - Caja 50 Un",
+        "description":"Rápida absorción en menos de 4 segundos | Compatibles con medidor Accu-Chek Instant",
+        "stock":20,
+        "price": 90.40,
+        "category": "medicine",
+        "imagen": "../public/medicina9.jpg"
+    },
+
+
+    {
+        "id":10,
+        "name":"Magnesio + Complejo B Vivactiv Tableta Efervescente",
+        "description":"Magnesio 300mgVitamina B1 1.2mgVitamina B2 1.3mgVitamina B6 1.7mgVitamina B12 2.5ugNiacina 16mgÁcido pantoténico 5mgÁcido fólico 400 ugBiotina 30 ugZinc 11mg",
+        "stock":20,
+        "price": 12.90,
+        "category": "vitaminas-suplementos",
+        "imagen": "../public/vitaminas-suplementos1.jpg"
+
+    },
+    {
+        "id":11,
+        "name":"Redoxon Total Tableta Efervescente Sabor Naranja",
+        "description":"Redoxon® Total es una fórmula mejorada que combina la vitamina C y el Zinc, con un nuevo ingrediente, la vitamina D",
+        "stock":20,
+        "price": 43.80,
+        "category": "vitaminas-suplementos",
+        "imagen": "../public/vitaminas-suplementos2.jpg"
+    },
+    {
+        "id":12,
+        "name":"Vitamina C + Zinc Vitamins For Life Tableta Efervescente Sabor Naranja",
+        "description":"ZINC 10mg, VITAMINA C 1000mg",
+        "stock":20,
+        "price": 12.90,
+        "category": "vitaminas-suplementos",
+        "imagen": "../public/vitaminas-suplementos3.jpg"
+    },
+    {
+        "id":13,
+        "name":"Neurobion Tableta Recubierta",
+        "description":"Cada tableta recubierta contiene: • Vitamina B1 100 mg • Vitamina B6 200 mg • Vitamina B12 200mcg",
+        "stock":20,
+        "price": 185.00,
+        "category": "vitaminas-suplementos",
+        "imagen": "../public/vitaminas-suplementos4.jpg"
+    },
+    {
+        "id":14,
+        "name":"Fersitol 2000mg-200µg Polvo para Solución Oral",
+        "description":"Mio-Inositol 2000 mg | Ácido Fólico 200 ?g",
+        "stock":20,
+        "price": 67.50,
+        "category": "vitaminas-suplementos",
+        "imagen": "../public/vitaminas-suplementos5.jpg"
+    },
+    {
+        "id":15,
+        "name":"Redoxitos Total Gomitas Masticables",
+        "description":"Ayuda a fortalecer las capas de defensa: Vitamina C",
+        "stock":20,
+        "price": 33.00,
+        "category": "vitaminas-suplementos",
+        "imagen": "../public/vitaminas-suplementos6.jpg"
+    },
+    {
+        "id":16,
+        "name":"Gomitas More Beauty Biotina",
+        "description":"Agua, Emulsionantes: Jarabe de maltitol (SIN 965(ii)) y Maltitol (SIN 965(i)), Gelatina, Azúcar, Biotina",
+        "stock":20,
+        "price": 55.00,
+        "category": "vitaminas-suplementos",
+        "imagen": "../public/vitaminas-suplementos7.jpg"
+    },
+    {
+        "id":17,
+        "name":"Vitamina C 1000mg Sunvit Tableta",
+        "description":"Vitamina C (Acido ascorbico) 1000mg",
+        "stock":20,
+        "price": 39.90,
+        "category": "vitaminas-suplementos",
+        "imagen": "../public/vitaminas-suplementos8.jpg"
+    },
+    {
+        "id":18,
+        "name":"Ácido Fólico 800mcg Tabletas - Frasco 100 UN",
+        "description":"ACIDO FOLICO 800 mcg",
+        "stock":20,
+        "price": 44.00,
+        "category": "vitaminas-suplementos",
+        "imagen": "../public/vitaminas-suplementos9.jpg"
+    },
+
+
+    {
+        "id":19,
+        "name":"Crema de Noche Anti-Arrugas Revitalift L'Oréal Paris Skin Care - Pote 50 ML",
+        "description":"Pro-retinol y elasti-flex",
+        "stock":20,
+        "price": 83.90,
+        "category": "cuidado-personal",
+        "imagen": "../public/cuidado-personal1.jpg"
+
+    },
+    {
+        "id":20,
+        "name":"Pack Antiedad La Roche Posay",
+        "description":"La Roche-Posay cuenta con productos revolucionarios y soluciones personalizadas para las necesidades de cada tipo de piel. ",
+        "stock":20,
+        "price": 340.80,
+        "category": "cuidado-personal",
+        "imagen": "../public/cuidado-personal2.jpg"
+    },
+    {
+        "id":21,
+        "name":"Pack Protección Solar Eucerin Facial y Corporal Oil Control Toque Seco FPS50+",
+        "description":"Para áreas expuestas al sol (cara, cuello, dorso de las manos).",
+        "stock":20,
+        "price": 224.90,
+        "category": "cuidado-personal",
+        "imagen": "../public/cuidado-personal3.jpg"
+    },
+    {
+        "id":22,
+        "name":"Pack Shampoo y Acondicionador Pantene Pro-V Restauración",
+        "description":"Hidratación y cuidado capilar con Pantene Shampoo y Acondicionador Restauración Pro-V",
+        "stock":20,
+        "price": 39.80,
+        "category": "cuidado-personal",
+        "imagen": "../public/cuidado-personal4.jpg"
+    },
+    {
+        "id":23,
+        "name":"Pack Shampoo y Acondicionador 2en1 Head & Shoulders Suave y Manejable",
+        "description":"Limpieza y cuidado capilar con Head & Shoulders Shampoo 2en1 Suave y Manejable",
+        "stock":20,
+        "price": 41.00,
+        "category": "cuidado-personal",
+        "imagen": "../public/cuidado-personal5.jpg"
+    },
+    {
+        "id":24,
+        "name":"Pack Shampoo y Acondicionador Herbal Essences Argán Oil",
+        "description":"impieza y cuidado para tu cabello con Shampoo  y Acondicionador Herbal Essences Argán Oil",
+        "stock":20,
+        "price": 51.90,
+        "category": "cuidado-personal",
+        "imagen": "../public/cuidado-personal6.jpg"
+    },
+    {
+        "id":25,
+        "name":"Pack Mal Aliento Oral-B: 02 Cepillos + Pasta Dental + Enjuague Bucal + Hilo Dental",
+        "description":"Limpieza bucal ultra efectiva con Oral-B",
+        "stock":20,
+        "price": 55.90,
+        "category": "cuidado-personal",
+        "imagen": "../public/cuidado-personal7.jpg"
+    },
+    {
+        "id":26,
+        "name":"Crema Humectante Nivea Multipropósito - Lata 60ml",
+        "description":"Cuidado para tu piel con Nivea Crema Humectante",
+        "stock":20,
+        "price": 11.10,
+        "category": "cuidado-personal",
+        "imagen": "../public/cuidado-personal8.jpg"
+    },
+    {
+        "id":27,
+        "name":"Tinte Para Cabello Tono 7 Rubio Vainilla Excellence - Kit 1 UN",
+        "description":"Coloración Capilar Permanente con Tinte Para Cabello Tono 7 Rubio Vainilla Excellence",
+        "stock":20,
+        "price": 30.90,
+        "category": "cuidado-personal",
+        "imagen": "../public/cuidado-personal9.jpg"
+    }
+    
+    
+]
