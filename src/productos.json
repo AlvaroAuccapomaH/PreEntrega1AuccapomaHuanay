@@ -16,7 +16,7 @@
         "stock":20,
         "price": 2.90,
         "category": "medicine",
-        "imagen": "../public/medicina2.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/medicina2.jpg"
     },
     {
         "id":3,
@@ -25,7 +25,7 @@
         "stock":20,
         "price": 19,
         "category": "medicine",
-        "imagen": "../public/medicina3.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/medicina3.jpg"
     },
     {
         "id":4,
@@ -34,7 +34,7 @@
         "stock":20,
         "price": 1.77,
         "category": "medicine",
-        "imagen": "../public/medicina4.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/medicina4.jpg"
     },
     {
         "id":5,
@@ -43,7 +43,7 @@
         "stock":20,
         "price": 14.80,
         "category": "medicine",
-        "imagen": "../public/medicina5.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/medicina5.jpg"
     },
     {
         "id":6,
@@ -52,7 +52,7 @@
         "stock":20,
         "price": 15.50,
         "category": "medicine",
-        "imagen": "../public/medicina6.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/medicina6.jpg"
     },
     {
         "id":7,
@@ -61,7 +61,7 @@
         "stock":20,
         "price": 2.55,
         "category": "medicine",
-        "imagen": "../public/medicina7.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/medicina7.jpg"
     },
     {
         "id":8,
@@ -70,7 +70,7 @@
         "stock":20,
         "price": 15.50,
         "category": "medicine",
-        "imagen": "../public/medicina8.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/medicina8.jpg"
     },
     {
         "id":9,
@@ -79,7 +79,7 @@
         "stock":20,
         "price": 90.40,
         "category": "medicine",
-        "imagen": "../public/medicina9.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/medicina9.jpg"
     },
 
 
@@ -90,7 +90,7 @@
         "stock":20,
         "price": 12.90,
         "category": "vitaminas-suplementos",
-        "imagen": "../public/vitaminas-suplementos1.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/vitaminas-suplementos1.jpg"
 
     },
     {
@@ -100,7 +100,7 @@
         "stock":20,
         "price": 43.80,
         "category": "vitaminas-suplementos",
-        "imagen": "../public/vitaminas-suplementos2.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/vitaminas-suplementos2.jpg"
     },
     {
         "id":12,
@@ -109,7 +109,7 @@
         "stock":20,
         "price": 12.90,
         "category": "vitaminas-suplementos",
-        "imagen": "../public/vitaminas-suplementos3.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/vitaminas-suplementos3.jpg"
     },
     {
         "id":13,
@@ -118,7 +118,7 @@
         "stock":20,
         "price": 185.00,
         "category": "vitaminas-suplementos",
-        "imagen": "../public/vitaminas-suplementos4.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/vitaminas-suplementos4.jpg"
     },
     {
         "id":14,
@@ -127,7 +127,7 @@
         "stock":20,
         "price": 67.50,
         "category": "vitaminas-suplementos",
-        "imagen": "../public/vitaminas-suplementos5.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/vitaminas-suplementos5.jpg"
     },
     {
         "id":15,
@@ -136,7 +136,7 @@
         "stock":20,
         "price": 33.00,
         "category": "vitaminas-suplementos",
-        "imagen": "../public/vitaminas-suplementos6.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/vitaminas-suplementos6.jpg"
     },
     {
         "id":16,
@@ -145,7 +145,7 @@
         "stock":20,
         "price": 55.00,
         "category": "vitaminas-suplementos",
-        "imagen": "../public/vitaminas-suplementos7.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/vitaminas-suplementos7.jpg"
     },
     {
         "id":17,
@@ -154,7 +154,7 @@
         "stock":20,
         "price": 39.90,
         "category": "vitaminas-suplementos",
-        "imagen": "../public/vitaminas-suplementos8.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/vitaminas-suplementos8.jpg"
     },
     {
         "id":18,
@@ -163,7 +163,7 @@
         "stock":20,
         "price": 44.00,
         "category": "vitaminas-suplementos",
-        "imagen": "../public/vitaminas-suplementos9.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/vitaminas-suplementos9.jpg"
     },
 
 
@@ -174,7 +174,7 @@
         "stock":20,
         "price": 83.90,
         "category": "cuidado-personal",
-        "imagen": "../public/cuidado-personal1.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/cuidado-personal1.jpg"
 
     },
     {
@@ -184,7 +184,7 @@
         "stock":20,
         "price": 340.80,
         "category": "cuidado-personal",
-        "imagen": "../public/cuidado-personal2.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/cuidado-personal2.jpg"
     },
     {
         "id":21,
@@ -193,7 +193,7 @@
         "stock":20,
         "price": 224.90,
         "category": "cuidado-personal",
-        "imagen": "../public/cuidado-personal3.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/cuidado-personal3.jpg"
     },
     {
         "id":22,
@@ -202,7 +202,7 @@
         "stock":20,
         "price": 39.80,
         "category": "cuidado-personal",
-        "imagen": "../public/cuidado-personal4.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/cuidado-personal4.jpg"
     },
     {
         "id":23,
@@ -211,7 +211,7 @@
         "stock":20,
         "price": 41.00,
         "category": "cuidado-personal",
-        "imagen": "../public/cuidado-personal5.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/cuidado-personal5.jpg"
     },
     {
         "id":24,
@@ -220,7 +220,7 @@
         "stock":20,
         "price": 51.90,
         "category": "cuidado-personal",
-        "imagen": "../public/cuidado-personal6.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/cuidado-personal6.jpg"
     },
     {
         "id":25,
@@ -229,7 +229,7 @@
         "stock":20,
         "price": 55.90,
         "category": "cuidado-personal",
-        "imagen": "../public/cuidado-personal7.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/cuidado-personal7.jpg"
     },
     {
         "id":26,
@@ -238,7 +238,7 @@
         "stock":20,
         "price": 11.10,
         "category": "cuidado-personal",
-        "imagen": "../public/cuidado-personal8.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/cuidado-personal8.jpg"
     },
     {
         "id":27,
@@ -247,7 +247,7 @@
         "stock":20,
         "price": 30.90,
         "category": "cuidado-personal",
-        "imagen": "../public/cuidado-personal9.jpg"
+        "imagen": "/PreEntrega1AuccapomaHuanay/cuidado-personal9.jpg"
     }
     
     
