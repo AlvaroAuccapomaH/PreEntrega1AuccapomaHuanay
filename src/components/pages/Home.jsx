@@ -3,7 +3,7 @@ import CarouselHome from '../CarouselHome'
 
 const Home = () => {
     return (
-        <div className='p-auto mt-5 bg-[#fffbeb] max-w-7xl m-auto' >
+        <div className='p-auto my-5 bg-[#fffbeb] max-w-7xl m-auto'>
             <CarouselHome />
             <div className='md:flex p-5 gap-8 '>
                 <div className='md:w-1/2'>
@@ -16,9 +16,6 @@ const Home = () => {
                     ¿Necesitas un producto para cuidar a tu mascota, accesorios de belleza o algún juguete infantil? Con nuestro Marketplace FarmaciaCurita descubre un sinfín de productos que cumplan con tus necesidades. Además encuentra marcas exclusivas como The Ordinary, Martiderm, Baby Fees, EBaby, y más
                 </div>
             </div>
-
-
-
         </div>
     )
 }

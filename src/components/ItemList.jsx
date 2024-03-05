@@ -8,7 +8,7 @@ const ItemList = ({ producto }) => {
                 <img src={producto.imagen} alt="imagen medicina" className='w-full p-4' />
                 <h1 className="mb-3">{producto.name}</h1>
                 <Link
-                    to={`/PreEntrega1AuccapomaHuanay/categoria/${producto.category}/${producto.id}`}
+                    to={`/categoria/${producto.category}/${producto.id}`}
                     className='mt-2 bg-emerald-500 text-white px-4 py-2 rounded hover:bg-emerald-600'
                 >
                     Ver Producto
